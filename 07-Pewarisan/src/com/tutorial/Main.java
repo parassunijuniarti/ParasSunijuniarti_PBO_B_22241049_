@@ -4,7 +4,7 @@ class Hero{
    String nama;
 
    void display(){
-      System.out.println("Nama Hero_1 : " + nama);
+      System.out.println("Nama Hero : " + nama);
       System.out.println("Health : " + 40 ) ;
    }
 }
@@ -13,7 +13,7 @@ class HeroTank extends Hero{
    float health;
 
    void display(){
-      System.out.println("Nama Hero_1 : " + nama);
+      System.out.println("Nama Hero : " + nama);
       System.out.println("Health : " + 40 ) ;
    }
 
